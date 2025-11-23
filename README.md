@@ -33,7 +33,7 @@ I'm a passionate **Software Engineering Student** who loves building modern, opt
 
 ### **Mobile Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
 ### **Databases**
@@ -58,14 +58,6 @@ I'm a passionate **Software Engineering Student** who loves building modern, opt
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashen0301&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen0301&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Ashen0301/Ashen0301/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
